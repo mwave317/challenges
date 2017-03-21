@@ -14,4 +14,4 @@ If you just have a question that you'd like help with, our slack channel at http
 If you need an invite, go to https://charlottejuniordevs.herokuapp.com/.
 
 ## How do I submit a solution to a challenge?
-Completed challenges can be submitted by [forking](https://help.github.com/articles/fork-a-repo/) this repo and making a [pull request](https://help.github.com/articles/about-pull-requests/).
+Completed challenges can be submitted by [forking](https://help.github.com/articles/fork-a-repo/) this repo and making a [pull request](https://help.github.com/articles/about-pull-requests/). See [CONTRIBUTING.md](./CONTRIBUTING.md) for more detailed instructions.
