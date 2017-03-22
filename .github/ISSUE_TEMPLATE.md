@@ -1,8 +1,8 @@
 ### Name of challenge
 <name-goes-here>
 
-### Instructions
-<instructions-go-here>
+### User Story
+<instructions-from-user-perspective-go-here>
 
 ### Can it possibly be solved in less than 2 hours?
 <yes-or-no>
