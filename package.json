@@ -1,0 +1,27 @@
+{
+  "name": "challenges",
+  "version": "1.0.0",
+  "description": "Collection of solved challenges are hosted here. Our [meetups](https://www.meetup.com/charlottejuniordevs) will frequently go over the challenges listed here.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlottejuniordevs/challenges.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charlottejuniordevs/challenges/issues"
+  },
+  "homepage": "https://github.com/charlottejuniordevs/challenges#readme",
+  "devDependencies": {
+    "eslint": "^3.18.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.3"
+  },
+  "main": "",
+  "dependencies": {}
+}

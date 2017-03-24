@@ -1,0 +1,12 @@
+#!/bin/sh
+
+set -e
+
+changed_files=$(git diff --name-only HEAD^)
+changed_files_with_ext() {
+  ext="$1"
+  echo "$changed_files"| grep ".*$ext$"
+}
+
+echo "Starting static analysis..."
+changed_files_with_ext ".js.*" | xargs eslint
