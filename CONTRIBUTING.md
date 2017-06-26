@@ -63,7 +63,7 @@ mkdir <your-github-username>
 ![coding](./.assets/coding.gif)
 
 ## Step 3) Submit a Pull Request.
-Create a Pull Request to [this repo](https://github.com/charlottejuniorruby/challenges).  Here are some [instructions on creating a Pull Request](https://help.github.com/articles/creating-a-pull-request/).
+Create a Pull Request to [this repo](https://github.com/charlottejuniordevs/challenges).  Here are some [instructions on creating a Pull Request](https://help.github.com/articles/creating-a-pull-request/).
 
 ## Step 4) Wait for a Code Review and make any changes if asked for improvements.
 
